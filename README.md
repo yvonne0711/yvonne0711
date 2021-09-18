@@ -5,7 +5,7 @@ Hi! ヾ(≧▽≦*)
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning html, css, js
 - 🤔 I’m looking for help with how to get into tech
-- 📫 How to reach me: yvonnewong1107@gmail.com
+- 📫 How to reach me: available upon request
 - 😄 Pronouns: she/her
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 💬 Ask me about ... -->
