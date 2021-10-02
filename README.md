@@ -4,7 +4,7 @@ Hi!
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning html, css, js, sql
-- 🤔 I’m looking for help with how to get into graduate level tech jobs
+- 🤔 I’m looking for help with how to get into entry level tech jobs
 - 📫 How to reach me: available upon request
 - 😄 Pronouns: she/her
 <!-- - ⚡ Fun fact: ... -->
