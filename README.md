@@ -5,7 +5,7 @@ Hi!
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning js, sql
 - 📫 How to reach me: yvonnewong1107@gmail.com 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/hers
 <!-- - 🤔 I’m looking for help with how to get into entry level tech jobs -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 💬 Ask me about ... -->
