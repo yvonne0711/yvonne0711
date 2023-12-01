@@ -5,7 +5,6 @@ Hi! I'm Yvonne
 <!-- - 🔭 I’m currently working on my own website -->
 - 💻 Ongoing learning includes SQL, Python
 - 🌱 I’m currently interested in JavaScript, React
-- 📫 How to reach me: yvonnewong1107@gmail.com 
 - 😄 Pronouns: she/her/hers
 <!-- - 🤔 I’m looking for help with how to get into entry level tech jobs -->
 <!-- - ⚡ Fun fact: ... -->
